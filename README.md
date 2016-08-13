@@ -9,7 +9,7 @@ lbyec72-ei2-p5-strings-patrickapacible created by GitHub Classroom
 ![](6.JPG)
 ![](7.JPG)
 
-ACTIVITY 8
+# ACTIVITY 8
 
 ![](menu.PNG)
 ![](1.PNG)
